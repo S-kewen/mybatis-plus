@@ -1,4 +1,6 @@
 # mybatis-plus
+![](https://upload.cc/i1/2021/04/06/8Ln06H.png)
+
 * 官網：https://baomidou.com/en/
 * Mybatis：https://github.com/S-kwen/mybatis
 ### 什麼是Mybatis plus？

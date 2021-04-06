@@ -52,3 +52,8 @@ MyBatis-plus是一款MyBatis的增強工具，在MyBatis 的基礎上只做增�
 13）內置全局攔截插件：提供全表 delete 、 update 操作智能分析阻斷，預防誤操作。
 
 14）默認將實體類的類名查找數據庫中的表，使用@TableName(value="table1")註解指定表名，@TableId指定表主鍵，若字段與表中字段名保持一致可不加註解。
+
+## Contact Author
+石桂華(Skwen) https://blog.iskwen.com
+# END
+* Thank you for watching.
